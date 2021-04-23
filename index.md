@@ -1,3 +1,14 @@
+## Présentation
+Après plus 4 ans d'expérience en tant qu'expert mobilité dans le pôle dédié d'une grande entreprise, je démarre mon activité de développeur mobile en indépendant. Toujours au point sur les derniers frameworks et les nouveautés de chaque plateforme, je suis dans la recherche constante de l'amélioration des applications que je développe et l'enrichissement de mes connaissances.
+J'accorde une grande importance à la qualité, c'est la raison pour laquelle je préfère les applications natives aux autres solutions (webs, cross-plateformes et hybrides). Je surveille tout de même l'émergence de nouvelles solutions comme Flutter.
+
+## En savoir plus
+Vous pouvez télécharger mon [CV concis ici](/documents/french_cv.pdf) et mon [dossier technique complet ici](/documents/dossier_technique.pdf)
+ [Link](url)
+
+## A venir
+Vous pourrez bientôt télécharger mon application android Porfolio
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dennisbordet/dennisbordet/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
