@@ -3,11 +3,15 @@ Après plus 4 ans d'expérience en tant qu'expert mobilité dans le pôle dédi�
 J'accorde une grande importance à la qualité, c'est la raison pour laquelle je préfère les applications natives aux autres solutions (webs, cross-plateformes et hybrides). Je surveille tout de même l'émergence de nouvelles solutions comme Flutter.
 
 ## En savoir plus
-Vous pouvez télécharger mon [CV concis ici](/documents/french_cv.pdf) et mon [dossier technique complet ici](/documents/dossier_technique.pdf)
+Vous pouvez télécharger mon [CV concis ici](/documents/french_cv_1.0.0.pdf) et mon [dossier technique complet ici](/documents/dossier_technique_1.0.0.pdf)
  [Link](url)
 
 ## A venir
-Vous pourrez bientôt télécharger mon application android Porfolio
+Vous pourrez bientôt télécharger mon application Porfolio sur Android
+
+
+### Contact
+Vous pouvez directement me contacter au [dennis.bordet@laposte.net](mailto:dennis.bordet@laposte.net)
 
 ## Welcome to GitHub Pages
 
