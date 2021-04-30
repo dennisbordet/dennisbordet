@@ -9,9 +9,7 @@ Région Nantaise. Aussi ouvert au remote, j'accepte les déplacements occasionne
 Vous pouvez télécharger mon [CV concis ici](/documents/french_cv_1.0.0.pdf) et mon [dossier technique complet ici](/documents/dossier_technique_1.0.0.pdf). Vous pouvez aussi retrouver toutes les infos qu'ils contiennent de manière plus dynamique dans mon **portfolio Android**.
 
 ## Portfolio Android
-Vous pouvez télécharger mon application [Porfolio sur Android](https://play.google.com/store/apps/details?id=fr.dbordet.portfolio). Il vous permettra également d'être notifié de mes changements de disponibilité.
-
-![QrCode Portfolio](/assets/PortfolioQrCode320.png)
+Patience...
 
 ### Et pour iOS ?
 Désolé, il n'est pas disponible sur iOS. Peut-être plus tard ;)
