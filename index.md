@@ -6,11 +6,11 @@ J'accorde une grande importance à la **qualité**, c'est la raison pour laquell
 Région Nantaise. Aussi ouvert au remote, j'accepte les déplacements occasionnels à moins de 3h de Nantes (avion, train, voiture)
 
 # En savoir plus
-Vous pouvez télécharger mon [CV concis ici](/documents/french_cv_1.0.0.pdf) et mon [dossier technique complet ici](/documents/dossier_technique_1.0.0.pdf)
- [Link](url). Vous pouvez aussi retrouver toutes les infos qu'ils contiennent de manière plus dynamique dans mon **portfolio Android**.
+Vous pouvez télécharger mon [CV concis ici](/documents/french_cv_1.0.0.pdf) et mon [dossier technique complet ici](/documents/dossier_technique_1.0.0.pdf). Vous pouvez aussi retrouver toutes les infos qu'ils contiennent de manière plus dynamique dans mon **portfolio Android**.
 
 ## Portfolio Android
-Vous pourrez bientôt télécharger mon application Porfolio sur Android. Il vous permettra également d'être notifié de mes changements de disponibilité.
+Vous pouvez télécharger mon application [Porfolio sur Android](https://play.google.com/store/apps/details?id=fr.dbordet.portfolio). Il vous permettra également d'être notifié de mes changements de disponibilité.
+ ![QrCode Portfolio](/assets/PortfolioQrCode320.png)
 
 ### Et pour iOS ?
 Désolé, il n'est pas disponible sur iOS. Peut-être plus tard ;)
