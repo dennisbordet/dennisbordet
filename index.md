@@ -1,8 +1,11 @@
-## Présentation
+# Présentation
 Après plus de 4 ans d'expérience en tant qu'expert mobilité dans le pôle dédié d'une grande entreprise, je démarre mon activité de développeur mobile en indépendant. Toujours au point sur les derniers frameworks et les nouveautés de chaque plateforme, je suis dans la recherche constante de l'amélioration des applications que je développe et l'enrichissement de mes connaissances.
 J'accorde une grande importance à la **qualité**, c'est la raison pour laquelle je préfère les applications natives aux autres solutions (webs, cross-plateformes et hybrides). Je surveille tout de même l'émergence de nouvelles solutions comme Flutter.
 
-## En savoir plus
+### Localisation
+Région Nantaise. Aussi ouvert au remote, j'accepte les déplacements occasionnels à moins de 3h de Nantes (avion, train, voiture)
+
+# En savoir plus
 Vous pouvez télécharger mon [CV concis ici](/documents/french_cv_1.0.0.pdf) et mon [dossier technique complet ici](/documents/dossier_technique_1.0.0.pdf)
  [Link](url). Vous pouvez aussi retrouver toutes les infos qu'ils contiennent de manière plus dynamique dans mon **portfolio Android**.
 
@@ -13,5 +16,5 @@ Vous pourrez bientôt télécharger mon application Porfolio sur Android. Il vou
 Désolé, il n'est pas disponible sur iOS. Peut-être plus tard ;)
 
 
-### Contactez moi !
+## Contactez moi !
 Vous pouvez me contacter par mail au [dennis.bordet@laposte.net](mailto:dennis.bordet@laposte.net) ou sur [LinkedIn.](https://www.linkedin.com/in/dennis-bordet-79a38b188/)
