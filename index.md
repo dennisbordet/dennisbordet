@@ -18,4 +18,4 @@ Désolé, il n'est pas disponible sur iOS. Peut-être plus tard ;)
 
 
 ## Contactez moi !
-Vous pouvez me contacter par mail au [dennis.bordet@laposte.net](mailto:dennis.bordet@laposte.net) ou sur [LinkedIn.](https://www.linkedin.com/in/dennis-bordet-79a38b188/)
+Vous pouvez me contacter par mail [dennis.bordet@laposte.net](mailto:dennis.bordet@laposte.net) ou sur [LinkedIn.](https://www.linkedin.com/in/dennis-bordet-79a38b188/)
