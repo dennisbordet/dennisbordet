@@ -5,8 +5,8 @@ J'accorde une grande importance à la **qualité**, c'est la raison pour laquell
 ### Localisation
 Région Nantaise. Aussi ouvert au remote, j'accepte les déplacements occasionnels à moins de 3h de Nantes (avion, train, voiture)
 
-# En savoir plus
-Vous pouvez télécharger mon [CV concis ici](/documents/french_cv_1.0.0.pdf) et mon [dossier technique complet ici](/documents/dossier_technique_1.0.0.pdf). Vous pouvez aussi retrouver toutes les infos qu'ils contiennent de manière plus dynamique dans mon **portfolio Android**.
+# En savoir plus {{site.cv}}
+Vous pouvez télécharger mon [CV concis ici](/documents/{{site.cv}}.pdf) et mon [dossier technique complet ici](/documents/{{site.dt}}.pdf). Vous pouvez aussi retrouver toutes les infos qu'ils contiennent de manière plus dynamique dans mon **portfolio Android**.
 
 ## Portfolio Android
 Patience...
