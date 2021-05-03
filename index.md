@@ -9,12 +9,12 @@ Région Nantaise. Aussi ouvert au remote, j'accepte les déplacements occasionne
 Vous pouvez télécharger mon [CV concis ici](/documents/{{site.cv}}.pdf) et mon [dossier technique complet ici](/documents/{{site.dt}}.pdf). Vous pouvez aussi retrouver toutes les infos qu'ils contiennent de manière plus dynamique dans mon **portfolio Android**.
 
 ## Portfolio Android
-Vous pouvez télécharger mon application [Porfolio sur Android]({{ site.androidPortfolio }}). Il vous permettra également d'être notifié de mes changements de disponibilité.
+Vous pouvez télécharger mon application [Porfolio sur Android]({{ site.androidPortfolio }}). Cela vous permettra également d'être notifié de mes changements de disponibilité.
 
 ![QrCode Portfolio](/assets/PortfolioQrCode320.png)
 
 ### Et pour iOS ?
-Désolé, il n'est pas disponible sur iOS. Peut-être plus tard ;)
+Désolé, l'application n'est pas disponible sur iOS. Peut-être plus tard ;)
 
 ## Disponibilités
 
