@@ -16,6 +16,9 @@ Vous pouvez télécharger mon application [Porfolio sur Android]({{ site.android
 ### Et pour iOS ?
 Désolé, il n'est pas disponible sur iOS. Peut-être plus tard ;)
 
+## Disponibilités
+
+Je suis actuellement disponible à 100% et à l'écoute de nouvelles opportunités.
 
 ## Contactez moi !
 Vous pouvez me contacter par mail [dennis.bordet@laposte.net](mailto:dennis.bordet@laposte.net) ou sur [LinkedIn.](https://www.linkedin.com/in/dennis-bordet-79a38b188/)
