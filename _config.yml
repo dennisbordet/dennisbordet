@@ -1,4 +1,7 @@
 title: Dennis BORDET 
 description: Développeur freelance Android & iOS
 show_downloads: false
+androidPortfolio: https://play.google.com/store/apps/details?id=fr.dbordet.portfolio
 theme: jekyll-theme-cayman
+cv: french_cv_1.0.0.pdf
+dt: dossier_technique_1.0.0.pdf
